@@ -60,11 +60,9 @@ http://127.0.0.1:5000
 ```
 PDF-Merger/
 │
-├── static/
 ├── templates/
 ├── uploads/
 ├── app.py
-├── requirements.txt
 └── README.md
 ```
 
